@@ -1,75 +1,65 @@
-# 👨🏾‍💻 Menosoft Technology
+# Menosoft Technology
 
 Welcome to the official GitHub organization of **Menosoft Technology** — a Ghana-based software development company delivering tailored digital solutions that drive growth, innovation, and operational excellence.
 
-🌍 Visit us: [https://menosofts.com](https://menosofts.com)
+🌍 [Visit our website](https://menosofts.com)
 
 ---
 
-## 🚀 Who We Are
+## About Us
 
-Menosoft Technology is a digital solutions company that helps businesses and institutions **embrace technology**, **automate operations**, and **solve complex problems** through modern software engineering practices.
+**Menosoft Technology** helps businesses and institutions embrace technology, automate operations, and solve complex challenges through modern software engineering.
 
-We specialize in:
+### Our Services
 
-- ✅ **Custom Software Development**
-- ✅ **Website & Web App Development**
-- ✅ **Mobile App Development**
-- ✅ **Systems Integration**
-- ✅ **IT Consulting**
-- ✅ **Educational & Healthcare Digital Solutions**
-
----
-
-## 🧠 What You'll Find Here
-
-Our GitHub organization serves as a hub for:
-
-- 📦 Internal and client-approved open-source projects
-- 🧩 API development and Laravel-based backends
-- 🖥️ Frontend applications using modern frameworks (Vue, React, etc.)
-- 🔐 Code for innovative educational and healthcare tools
-- 📂 Documented, reusable components and libraries
-- 🧪 Experimental and community-driven tools
+- Custom Software Development  
+- Website & Web App Development  
+- Mobile App Development  
+- Systems Integration  
+- IT Consulting  
+- Educational & Healthcare Digital Solutions
 
 ---
 
-## 🏗️ Featured Projects
+## What You’ll Find Here
 
-> Coming soon — we’re curating a list of open-source and demo projects. Stay tuned!
+This GitHub organization serves as a central hub for:
 
-In the meantime, check out our website portfolio:  
-🔗 [https://menosofts.com](https://menosofts.com)
-
----
-
-## 💼 Work With Us
-
-Need a custom system or want to collaborate?
-
-📬 Contact us via our website or email us at **info@menosofts.com**  
-📞 Call us: **+233 27 350 9432**
-
-We love partnering with startups, SMEs, institutions, and nonprofits.
+- Open-source and internal projects  
+- Laravel-based APIs and backends  
+- Frontend apps using Vue, React, and more  
+- Educational and healthcare digital tools  
+- Reusable components and libraries  
+- Experimental and community-driven tools
 
 ---
 
-## 🤝 Let's Connect
+## Featured Projects
 
-- 🌐 Website: [https://menosofts.com](https://menosofts.com)
-- 💌 Email: info@menosofts.com
-- 📱 WhatsApp: [+233 27 350 9432]
-- 🛠️ Projects, contributions, and issues welcome!
+**Coming soon** – We’re curating a list of open-source and demo projects.
 
----
-
-## 🛡 License
-
-Unless otherwise stated, all repositories under this organisation are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+📁 [See our full portfolio on our website](https://menosofts.com)
 
 ---
 
- Empowering businesses through simple, smart, and scalable software.
+## Work With Us
+
+Need a custom solution or looking to collaborate?
+
+- ✉️ Email: [info@menosofts.com](mailto:info@menosofts.com)  
+- 📞 Phone: +233 27 350 9432  
+- 🌐 Website: [menosofts.com](https://menosofts.com)
+
+We work with startups, SMEs, institutions, and nonprofits.
 
 ---
-**Menosoft Technology - Excellence in Every Solution**
+
+## License
+
+Unless otherwise stated, all repositories under this organization are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+**Menosoft Technology — Excellence in Every Solution**
+
+Empowering businesses through simple, smart, and scalable software.
